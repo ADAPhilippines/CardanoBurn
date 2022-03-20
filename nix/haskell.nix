@@ -12,7 +12,7 @@ in
 pkgs.haskell-nix.cabalProject rec {
   src = pkgs.haskell-nix.haskellLib.cleanGit {
     name = "CardanoBurn";
-    src = ./BurnValidator..;
+    src = ./src/BurnValidator/..;
   };
 
   # Plutus uses a patched GHC. And so shall we.
