@@ -171,7 +171,7 @@ const Home: NextPage = () => {
         </div>
         <div className="w-1/2 mt-[24px]">
           <Paper className="backdrop-opacity-10 backdrop-invert bg-main/30 text-white" elevation={3}>
-            <div className="font-bold p-6 border-solid border-b-2 border-brdr-fade">What would you like to burn? 🔥</div>
+            <div className="font-bold p-6 border-solid border-b-2 border-brdr-fade text-lg">What would you like to burn? 🔥</div>
             <div className="p-6 flex flex-col space-y-4">
               <div className="flex w-full space-x-2">
                 <div className="w-1/2">
