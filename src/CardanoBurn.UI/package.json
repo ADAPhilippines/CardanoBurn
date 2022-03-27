@@ -11,6 +11,8 @@
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
+    "@emurgo/cardano-serialization-lib-browser": "^10.0.4",
+    "@saib/cardano-bifrost": "^0.0.8",
     "@fortawesome/fontawesome-pro": "^6.1.1",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
