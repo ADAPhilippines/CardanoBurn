@@ -140,7 +140,7 @@ const Home: NextPage = () => {
             </h1>
             <div className="bg-secondary w-[50px] h-[1px] mt-6 mb-6" />
             <p className="text-base">
-              So you've been bugging Charles Hoskinson wen burn $ADA? Well here is your answer, go right ahead and burn your $ADA today! 🔥
+              So you've been bugging Charles Hoskinson wen burn $ADA? Well this website right here is your answer, go right ahead and burn your $ADA today! 🔥
             </p>
             <p className="text-base mt-6">
               <span>Oh now you're pretending to not know what I am talking about? Well here is a refresher: </span>
