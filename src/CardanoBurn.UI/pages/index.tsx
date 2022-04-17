@@ -116,7 +116,7 @@ const Home: NextPage = () => {
       </Head>
 
       <header className="container mx-auto flex pt-6 pb-6 relative border-solid border-b-2 border-brdr-fade">
-        <div className="w-1/4 h-[60px] relative">
+        <div className="w-1/6 h-[60px] relative">
           <Image src="/cardano_burn.svg" alt="Cardano Burn" layout="fill" />
         </div>
         <div className="absolute right-[calc(50%-237px/2)] top-[calc(50%-24px/2)] tracking-widest">🔥 Burn your $ADA for the lulz 🔥</div>
